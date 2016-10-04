@@ -19,6 +19,11 @@
 .uib-position-body-scrollbar-measure {
   overflow: scroll !important;
 }
+
+.uib-time input {
+   width: 50px;
+ }
+
 .uib-datepicker-popup.dropdown-menu {
   display: block;
   float: none;
